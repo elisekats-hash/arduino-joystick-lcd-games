@@ -107,3 +107,8 @@ A mini game console embedded system built on Arduino, featuring two joystick-con
 - Built using Arduino platform
 - Inspired by classic arcade games
 - Custom LCD characters for enhanced gameplay
+
+## LCD Mini Games Breadboard Setup
+![Breadboard Setup](breadboard_setup.png)
+
+
