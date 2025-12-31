@@ -12,6 +12,7 @@ A mini game console embedded system built on Arduino, featuring two joystick-con
 - Passive buzzer
 - Red & green LEDs
 - Potentiometer
+- 5kΩ resistor x2, 330Ω x1
 - Breadboard and jumper wires
 
 --------------------------------------------------
@@ -110,5 +111,6 @@ A mini game console embedded system built on Arduino, featuring two joystick-con
 
 ## LCD Mini Games Breadboard Setup
 ![Breadboard Setup](breadboard_setup.png)
+
 
 
