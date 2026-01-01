@@ -78,8 +78,8 @@ A mini game console embedded system built on Arduino, featuring two joystick-con
 
 - **LCD**: Standard LiquidCrystal pin connections
 - **Joystick**:
-  - X-axis: Analog pin A0
-  - Y-axis: Analog pin A1
+  - X-axis: Analog pin A1
+  - Y-axis: Analog pin A2
   - Button: Digital pin 2
 
 - **Buzzer**: Digital pin 3
@@ -111,6 +111,7 @@ A mini game console embedded system built on Arduino, featuring two joystick-con
 
 ## LCD Mini Games Breadboard Setup
 ![Breadboard Setup](breadboard_setup.png)
+
 
 
 
